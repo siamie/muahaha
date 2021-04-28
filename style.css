@@ -1,0 +1,25 @@
+body {
+    font-family: system-ui;
+    background: #D3F2FA;
+    color: #EE575A;
+    text-align: center;
+    font-family: fantasy;
+}
+h2 {
+    font-family: system-ui;
+    color: #B92C3E;
+    text-align: center;
+    font-family: sans-serif;
+}
+h3 {
+    font-family: system-ui;
+    color: #F306ED;
+    text-align: center;
+    font-family: cursive;
+}
+p {
+    font-family: system-ui;
+    color: #0032FF;
+    text-align: center;
+    font-family: fantasy;
+}
